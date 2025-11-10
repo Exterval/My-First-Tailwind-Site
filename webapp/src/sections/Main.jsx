@@ -15,7 +15,7 @@ export default function Main() {
                 <div className="m-5 md:w-200">
                     <img src="src/assets/placeholder.jpg" alt="Image" className="w-full h-full shadow-2xl rounded-2xl" />
                 </div>
-            </div> 
+            </div>
         </section>
     )
 };

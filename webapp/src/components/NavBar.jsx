@@ -1,6 +1,6 @@
 export default function NavBar() {
     return(
-        <div className="w-screen h-1/12 flex flex-row justify-around mb-5" style={{position: 'sticky', top: '0'}}>
+        <div className="w-screen h-20 flex flex-row justify-around mb-5" style={{position: 'sticky', top: '0'}}>
             <img src="src/assets/logo.png" className="object-contain w-full" style={{textAlign: 'center'}} alt="Logo Image" />
             <ul className="flex flex-row items-center justify-evenly w-full rounded-bl-3xl backdrop-blur-lg border border-white/5
             transition-all duration-300 ease-in-out">
