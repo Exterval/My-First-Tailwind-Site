@@ -4,7 +4,7 @@ export default function About() {
         <h2 className="text-2xl mt-5 text-center text-white">About Us</h2>
         <div className="m-auto h-1 bg-zinc-300 w-45 my-5"></div>
         <div className="flex flex-row items-center justify-around flex-wrap p-5">
-            <div className="hover:shadow-lg hover:translate-middle-y transition-all duration-300 ease-in-out rounded-2xl
+            <div className="hover:shadow-lg hover:-translate-y-1 transition-all duration-300 ease-in-out rounded-2xl
             flex flex-col sm:flex-row my-4 max-w-xl lg:md:max-w-2xl bg-zinc-400/45">
                 <div className="md:shrink-0">
                     <img src="src/assets/aboutPic_1.jpg" alt="Stock Photo" 
@@ -21,7 +21,7 @@ export default function About() {
                         dolor dicta repellat molestias labore? Consequuntur, accusantium?</p>
                 </div>
             </div>
-            <div className="hover:shadow-lg hover:translate-middle-y transition-all duration-300 ease-in-out rounded-2xl
+            <div className="hover:shadow-lg hover:-translate-y-1 transition-all duration-300 ease-in-out rounded-2xl
             flex flex-col sm:flex-row my-4 max-w-xl lg:md:max-w-2xl bg-zinc-400/45">
                 <div className="md:shrink-0">
                     <img src="src/assets/aboutPic_2.jpg" alt="Stock Photo" 
@@ -38,7 +38,7 @@ export default function About() {
                         dolor dicta repellat molestias labore? Consequuntur, accusantium?</p>
                 </div>
             </div>
-            <div className="hover:shadow-lg hover:translate-middle-y transition-all duration-300 ease-in-out rounded-2xl
+            <div className="hover:shadow-lg hover:-translate-y-1 transition-all duration-300 ease-in-out rounded-2xl
             flex flex-col sm:flex-row my-4 max-w-xl lg:md:max-w-2xl bg-zinc-400/45">
                 <div className="md:shrink-0">
                     <img src="src/assets/aboutPic_3.jpg" alt="Stock Photo" 
